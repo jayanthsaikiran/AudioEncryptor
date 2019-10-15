@@ -1,0 +1,27 @@
+<html>
+
+<head>
+    <title>Music</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+        <div class="jumbotron">
+    <h1>Enter the text to convert text to music: </h1>
+    </div>
+    <form action="converter.py" method="get" class="form-group">
+        <p>Enter your secret text here</p>
+        <input class="form-control"  type="text" id="text" name="fname">
+        <center><input class="btn-primary" type="submit" value="Submit" /></center>
+    </form>
+
+    <form action="mail.py" method="get">
+        <p>Enter your email here to send a copy</p>
+        <input class="form-control"  type="text" id="mail" name="rec_mail">
+       <center><input class="btn-primary" type="submit" value="Submit"></center
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,27 @@
+Encryption code for a is 97
+Encryption code for b is 98
+Encryption code for c is 99
+Encryption code for d is 100
+Encryption code for e is 101
+Encryption code for f is 102
+Encryption code for g is 103
+Encryption code for h is 104
+Encryption code for i is 105
+Encryption code for j is 106
+Encryption code for k is 107
+Encryption code for l is 108
+Encryption code for m is 109
+Encryption code for n is 110
+Encryption code for o is 111
+Encryption code for p is 112
+Encryption code for q is 113
+Encryption code for r is 114
+Encryption code for s is 115
+Encryption code for t is 116
+Encryption code for u is 117
+Encryption code for v is 118
+Encryption code for w is 119
+Encryption code for x is 120
+Encryption code for y is 121
+Encryption code for z is 122
+The encryption string is saikiran
